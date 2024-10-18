@@ -52,6 +52,9 @@ The project uses various machine learning algorithms, such as:
 
 - Decision Tree Classifier
 - Logistic Regression
+- Random Forest Classifier
+- Support Vector Machine
+- XGBoost Classifier
 
 These models are trained on the dataset to classify tumors as malignant or benign, and their performances are evaluated using metrics like **accuracy**, **precision**, **recall**, and **F1-score**.
 
